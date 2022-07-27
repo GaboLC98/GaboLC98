@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Gabriel Lopez Calderon
-- 👀 Me interesa la programacion, ciberseguridad y aprender de forma autodidacta a la vez que continuo con mi carrera (Ingenieria informatica)
-- 🌱 Actualmente estoy aprendiendo Cloud Security en mi actual puesto de Cloud security Architect
-- 📫 Para contactarme pueden enviarme un mail a: gabriel.lopezcalderon@protonmail.com
+- My name is Gabriel Lopez Calderon and i'm stuying informatic engenieer in UADE and pentesting on Hack the box.
+- I'm apassionate about cybersecurity, networking and backend development.
+- I really like linux ecosystem and open source software.
+- You can contact me via: gabriel.lopezcalderon@protonmail.com
