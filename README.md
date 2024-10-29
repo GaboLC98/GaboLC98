@@ -1,4 +1,4 @@
-- My name is Gabriel Lopez Calderon and I'm stuying informatic engenieer in UADE while specializing in offensive security on Hack the box.
+- My name is Gabriel Lopez Calderon and I'm stuying Computer Science at UADE while specializing in offensive security on Hack the box.
 - I'm apassionate about cybersecurity, networking and backend development.
 - I really like linux ecosystem and open source software.
 - You can contact me via: gabriel.lopezcalderon@protonmail.com
